@@ -1,5 +1,3 @@
-## Hello everyone 👋
-
 <-!
 
 Hi, 
@@ -14,4 +12,5 @@ I'm a cyberfanatic.
 Feel free to contact me.
 
 🔭 🌱  👯  🤔 💬 📫 😄 ⚡ 
+
 ->
