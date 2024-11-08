@@ -1,7 +1,7 @@
 
-Hi, 
+HELLO, 
 
-I'm a blackmonoceros, 
+I'm a blackmonoceros.
 
 I code, 
 
